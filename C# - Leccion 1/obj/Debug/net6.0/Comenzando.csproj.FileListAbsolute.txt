@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\Comenzando\bin\Debug\net6.0\Comenzando.exe
+C:\Users\maria\source\repos\Comenzando\bin\Debug\net6.0\Comenzando.deps.json
+C:\Users\maria\source\repos\Comenzando\bin\Debug\net6.0\Comenzando.runtimeconfig.json
+C:\Users\maria\source\repos\Comenzando\bin\Debug\net6.0\Comenzando.dll
+C:\Users\maria\source\repos\Comenzando\bin\Debug\net6.0\Comenzando.pdb
+C:\Users\maria\source\repos\Comenzando\obj\Debug\net6.0\Comenzando.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Comenzando\obj\Debug\net6.0\Comenzando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Comenzando\obj\Debug\net6.0\Comenzando.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Comenzando\obj\Debug\net6.0\Comenzando.AssemblyInfo.cs
+C:\Users\maria\source\repos\Comenzando\obj\Debug\net6.0\Comenzando.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Comenzando\obj\Debug\net6.0\Comenzando.dll
+C:\Users\maria\source\repos\Comenzando\obj\Debug\net6.0\refint\Comenzando.dll
+C:\Users\maria\source\repos\Comenzando\obj\Debug\net6.0\Comenzando.pdb
+C:\Users\maria\source\repos\Comenzando\obj\Debug\net6.0\Comenzando.genruntimeconfig.cache
+C:\Users\maria\source\repos\Comenzando\obj\Debug\net6.0\ref\Comenzando.dll
